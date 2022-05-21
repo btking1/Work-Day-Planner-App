@@ -14,9 +14,7 @@ Try planning out your day and then refresh the page!
 ## Website
 https://github.com/btking1/Work-Day-Planner-App
 
-![ScreenShot](https://github.com/btking1/code-quiz.io/blob/main/codequiz1.png)
-
-![ScreenShot](https://github.com/btking1/code-quiz.io/blob/main/codequiz3.png)
+![ScreenShot](https://github.com/btking1/Work-Day-Planner-App/blob/main/MockUp-1.png)
 
 ## Contribution
 Made with ❤️ by Booker King
